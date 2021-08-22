@@ -5,5 +5,5 @@ Camping is a website where users can create and review campgrounds. In order to 
 <Ul>
  <li>Users can create, edit, and remove campgrounds</li>
  <li>Users can review campgrounds once, and edit or remove their review</li>
-<li>User profiles include more information on the user (full name, email, phone, join date), their campgrounds, and the option to edit their profile or delete their account</li>
+<li>User profiles include more information on the user (Username,email), their campgrounds, and the option to edit their profile or delete their account</li>
 </ul>
